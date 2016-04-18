@@ -1,0 +1,506 @@
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\Interop.ARVSPackage.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\Interop.SHDocVw.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\AxInterop.SHDocVw.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csproj.ResolveComReference.cache
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csproj.GenerateResource.Cache
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinDataSource.v3.2.Design.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinGrid.v3.2.Design.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Microsoft.VisualBasic.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinDataSource.v3.2.Design.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinGrid.v3.2.Design.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Interop.ARVSPackage.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\Interop.SHDocVw.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\bin\Debug\AxInterop.SHDocVw.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\obj\Debug\ResGen.read.1.tlog
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\obj\Debug\ResGen.write.1.tlog
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\AxInterop.ActiveInput.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Interop.ActiveInput.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.read.1.tlog
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.write.1.tlog
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+C:\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\ResolveAssemblyReference.cache
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.read.1.tlog
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.write.1.tlog
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinDataSource.v3.2.Design.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinGrid.v3.2.Design.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.Viewer.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.HtmlExport.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.PdfExport.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.RtfExport.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.TiffExport.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.TextExport.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.XlsExport.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\ResolveAssemblyReference.cache
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.read.1.tlog
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.write.1.tlog
+D:\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinDataSource.v3.2.Design.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinGrid.v3.2.Design.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinChart.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinDataSource.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinDock.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinExplorerBar.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinInkProvider.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinListBar.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinMaskedEdit.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinSchedule.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinTree.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.Viewer.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.HtmlExport.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.PdfExport.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.RtfExport.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.TiffExport.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.TextExport.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.XlsExport.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+D:\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.Viewer.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.HtmlExport.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.PdfExport.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.RtfExport.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.TiffExport.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.TextExport.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ActiveReports.XlsExport.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\ResolveAssemblyReference.cache
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.read.1.tlog
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\ResGen.write.1.tlog
+D:\Varios\MZ\MZERP2008\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.Viewer.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.HtmlExport.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.PdfExport.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.RtfExport.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.TiffExport.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.TextExport.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.XlsExport.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csprojResolveAssemblyReference.cache
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csproj.GenerateResource.Cache
+D:\Varios\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinDataSource.v3.2.Design.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinGrid.v3.2.Design.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Shared.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinChart.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinDataSource.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinDock.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinExplorerBar.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinInkProvider.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinListBar.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinMaskedEdit.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinSchedule.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.UltraWinTree.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Infragistics2.Win.v8.3.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.Viewer.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.HtmlExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.PdfExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.RtfExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.TiffExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.TextExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.XlsExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ActiveReports.Chart.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csprojResolveAssemblyReference.cache
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csproj.GenerateResource.Cache
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\obj\Debug\mz.erp.exe
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\obj\Debug\mz.erp.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\AssemblyRebinding.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.exe
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ClassLibrary1.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinDataSource.v3.2.Design.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Infragistics.Win.UltraWinGrid.v3.2.Design.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.ui.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.Viewer.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Interop.Excel.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.HtmlExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.PdfExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.RtfExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.TiffExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.TextExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.XlsExport.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Interop.EpsonFPHostControlX.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Interop.FiscalPrinterLib.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Janus.Windows.Common.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ActiveReports.Chart.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Interop.VBIDE.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ClassLibrary1.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\ClassLibrary1.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.businessrules.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.commontypes.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.dataaccess.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.io.dll.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.security.dll.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.systemframework.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.ui.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.ui.controller.dll.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.fiscal.dll.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\Janus.Windows.GridEX.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\mz.erp.dbhelper.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\bin\Debug\cs\mz.erp.ui.resources.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csprojResolveAssemblyReference.cache
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\obj\Debug\mz.erp.MainForm.resources
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\obj\Debug\mz.erp.exe.csproj.GenerateResource.Cache
+E:\MZ\MZERP2008 - Subir al SVN CloudForge - Origin\mz.erp.ui.exe\obj\Debug\mz.erp.exe.licenses

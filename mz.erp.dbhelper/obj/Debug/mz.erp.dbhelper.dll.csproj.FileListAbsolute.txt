@@ -1,0 +1,83 @@
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MAIN MZ.ERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MAIN MZ.ERP2008 - copia\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+C:\Fuentes\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+E:\Fuentes\Fuentes\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+D:\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+D:\MZ\MZERP2008\mz.erp.dbhelper\obj\Debug\ResolveAssemblyReference.cache
+D:\MZ\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+D:\MZ\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+D:\Varios\MZ\MZERP2008\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\mz.erp.dbhelper.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\Janus.Windows.Common.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\mz.erp.security.dll.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\mz.erp.systemframework.pdb
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\bin\Debug\Janus.Windows.GridEX.xml
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll.csprojResolveAssemblyReference.cache
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.dll
+E:\MZ\MZERP2008 - Subir al SVN CloudForge\mz.erp.dbhelper\obj\Debug\mz.erp.dbhelper.pdb

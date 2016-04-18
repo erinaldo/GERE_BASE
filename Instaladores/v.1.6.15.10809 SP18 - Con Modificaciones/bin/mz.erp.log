@@ -1,0 +1,259 @@
+2011-07-07T12:35:05	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T12:35:05	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T12:35:05	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T12:35:05	[ERR]	AperturaImpresoraFiscal
+2011-07-07T12:35:05	[ERR]	Puerto 1
+2011-07-07T12:35:05	[ERR]	Velocidad 9600
+2011-07-07T12:35:05	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T12:35:05	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T12:35:05	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T12:35:06	[INF]	Mensaje Fiscal = <b>Se necesita realizar cierre de la jornada fiscal</b>
+2011-07-07T12:35:06	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T12:35:06	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T12:35:06	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T12:35:06	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T12:35:06	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T12:35:06	[ERR]	AbrioIF = True
+2011-07-07T12:35:06	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T12:35:08	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-07T12:35:08	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T12:35:09	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T12:35:09	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-07T12:35:09	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-07T12:35:16	[INF]	Mensaje Fiscal = <b>No se pudo cerrar el comprobante</b>
+2011-07-07T12:39:21	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T12:39:22	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T12:39:22	[INF]	Mensaje Fiscal = <b>Se necesita realizar cierre de la jornada fiscal</b>
+2011-07-07T12:39:22	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T12:39:28	[INF]	Mensaje Fiscal = <b>No se pudo generar el reporte X</b>
+2011-07-07T12:39:42	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T12:39:42	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T12:39:42	[INF]	Mensaje Fiscal = <b>Se necesita realizar cierre de la jornada fiscal</b>
+2011-07-07T12:39:42	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T12:39:50	[INF]	Mensaje Fiscal = Reporte fiscal Z emitido
+2011-07-07T12:40:52	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T12:40:52	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T12:40:52	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T12:40:52	[ERR]	AperturaImpresoraFiscal
+2011-07-07T12:40:52	[ERR]	Puerto 1
+2011-07-07T12:40:52	[ERR]	Velocidad 9600
+2011-07-07T12:40:52	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T12:40:52	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T12:40:52	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T12:40:52	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T12:40:52	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T12:40:52	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T12:40:52	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T12:40:52	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T12:40:52	[ERR]	AbrioIF = True
+2011-07-07T12:40:52	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T12:40:54	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-07T12:40:55	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T12:40:55	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T12:40:56	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-07T12:40:56	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-07T12:41:09	[INF]	Mensaje Fiscal = Comprobante cerrado.
+2011-07-07T14:33:21	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T14:33:21	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T14:33:21	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T14:33:21	[ERR]	AperturaImpresoraFiscal
+2011-07-07T14:33:21	[ERR]	Puerto 1
+2011-07-07T14:33:21	[ERR]	Velocidad 9600
+2011-07-07T14:33:21	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T14:33:21	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T14:33:21	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T14:33:22	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T14:33:22	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T14:33:22	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T14:33:22	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T14:33:22	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T14:33:22	[ERR]	AbrioIF = True
+2011-07-07T14:33:22	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T14:33:24	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-07T14:33:25	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:33:25	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:33:26	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-07T14:33:26	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-07T14:33:32	[INF]	Mensaje Fiscal = Comprobante cerrado.
+2011-07-07T14:37:56	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T14:37:56	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T14:37:56	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T14:37:56	[ERR]	AperturaImpresoraFiscal
+2011-07-07T14:37:56	[ERR]	Puerto 1
+2011-07-07T14:37:56	[ERR]	Velocidad 9600
+2011-07-07T14:37:56	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T14:37:56	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T14:37:56	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T14:37:56	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T14:37:56	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T14:37:56	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T14:37:56	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T14:37:56	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T14:37:56	[ERR]	AbrioIF = True
+2011-07-07T14:37:56	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T14:37:58	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-07T14:37:58	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:37:59	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:37:59	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-07T14:38:00	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-07T14:38:03	[INF]	Mensaje Fiscal = <b>No se pudo cerrar el comprobante</b>
+2011-07-07T14:38:18	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T14:38:18	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T14:38:18	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T14:38:18	[ERR]	AperturaImpresoraFiscal
+2011-07-07T14:38:18	[ERR]	Puerto 1
+2011-07-07T14:38:18	[ERR]	Velocidad 9600
+2011-07-07T14:38:18	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T14:38:18	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T14:38:18	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T14:38:18	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T14:38:18	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T14:38:18	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T14:38:18	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T14:38:18	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T14:38:18	[ERR]	AbrioIF = True
+2011-07-07T14:38:18	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T14:38:19	[INF]	Mensaje Fiscal = <b>No se pudo abrir el comprobante</b>
+2011-07-07T14:50:32	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T14:50:32	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T14:50:32	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T14:50:32	[ERR]	AperturaImpresoraFiscal
+2011-07-07T14:50:32	[ERR]	Puerto 1
+2011-07-07T14:50:32	[ERR]	Velocidad 9600
+2011-07-07T14:50:32	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T14:50:32	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T14:50:32	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T14:50:33	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T14:50:33	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T14:50:33	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T14:50:33	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T14:50:33	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T14:50:33	[ERR]	AbrioIF = True
+2011-07-07T14:50:33	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T14:50:34	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-07T14:50:35	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:50:36	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:50:36	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-07T14:50:36	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-07T14:50:43	[INF]	Mensaje Fiscal = Comprobante cerrado.
+2011-07-07T14:59:20	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-07T14:59:20	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-07T14:59:20	[ERR]	AperturaImpresoraFiscal()
+2011-07-07T14:59:20	[ERR]	AperturaImpresoraFiscal
+2011-07-07T14:59:20	[ERR]	Puerto 1
+2011-07-07T14:59:20	[ERR]	Velocidad 9600
+2011-07-07T14:59:20	[ERR]	fiscal.AbrirImpFis()
+2011-07-07T14:59:20	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-07T14:59:20	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-07T14:59:21	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-07T14:59:21	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-07T14:59:21	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-07T14:59:21	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-07T14:59:21	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-07T14:59:21	[ERR]	AbrioIF = True
+2011-07-07T14:59:21	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-07T14:59:22	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-07T14:59:23	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:59:24	[INF]	Mensaje Fiscal = Item impreso
+2011-07-07T14:59:24	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-07T14:59:24	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-07T14:59:31	[INF]	Mensaje Fiscal = Comprobante cerrado.
+2011-07-08T12:52:36	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-08T12:52:36	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-08T12:52:36	[ERR]	AperturaImpresoraFiscal()
+2011-07-08T12:52:36	[ERR]	AperturaImpresoraFiscal
+2011-07-08T12:52:36	[ERR]	Puerto 1
+2011-07-08T12:52:36	[ERR]	Velocidad 9600
+2011-07-08T12:52:36	[ERR]	fiscal.AbrirImpFis()
+2011-07-08T12:52:36	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-08T12:52:36	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-08T12:52:36	[INF]	Mensaje Fiscal = <b>Se necesita realizar cierre de la jornada fiscal</b>
+2011-07-08T12:52:36	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-08T12:52:36	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-08T12:52:36	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-08T12:52:36	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-08T12:52:36	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-08T12:52:36	[ERR]	AbrioIF = True
+2011-07-08T12:52:36	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-08T12:52:38	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-08T13:06:25	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-08T13:06:25	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-08T13:06:25	[ERR]	AperturaImpresoraFiscal()
+2011-07-08T13:06:25	[ERR]	AperturaImpresoraFiscal
+2011-07-08T13:06:25	[ERR]	Puerto 1
+2011-07-08T13:06:25	[ERR]	Velocidad 9600
+2011-07-08T13:06:25	[ERR]	fiscal.AbrirImpFis()
+2011-07-08T13:06:25	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-08T13:06:25	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-08T13:06:26	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-08T13:06:26	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-08T13:06:26	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-08T13:06:26	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-08T13:06:26	[ERR]	fiscal.EstadoCompAbierto = True
+2011-07-08T13:06:26	[INF]	Mensaje Fiscal = Cancelando comprobante fiscal anterior
+2011-07-08T13:06:26	[ERR]	AbrioIF = True
+2011-07-08T13:06:26	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-08T13:06:28	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-08T13:09:11	[INF]	Mensaje Fiscal = Item impreso
+2011-07-08T13:09:24	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-08T13:09:25	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-08T13:09:27	[INF]	Mensaje Fiscal = <b>No se pudo cerrar el comprobante</b>
+2011-07-08T13:10:16	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-08T13:10:16	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-08T13:10:16	[INF]	Mensaje Fiscal = <b>Se necesita realizar cierre de la jornada fiscal</b>
+2011-07-08T13:10:16	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-08T13:10:23	[INF]	Mensaje Fiscal = Reporte fiscal Z emitido
+2011-07-08T13:10:46	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-08T13:10:46	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-08T13:10:46	[ERR]	AperturaImpresoraFiscal()
+2011-07-08T13:10:46	[ERR]	AperturaImpresoraFiscal
+2011-07-08T13:10:46	[ERR]	Puerto 1
+2011-07-08T13:10:46	[ERR]	Velocidad 9600
+2011-07-08T13:10:46	[ERR]	fiscal.AbrirImpFis()
+2011-07-08T13:10:46	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-08T13:10:46	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-08T13:10:46	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-08T13:10:46	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-08T13:10:46	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-08T13:10:46	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-08T13:10:46	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-08T13:10:46	[ERR]	AbrioIF = True
+2011-07-08T13:10:46	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-08T13:10:47	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-08T13:10:53	[INF]	Mensaje Fiscal = Item impreso
+2011-07-08T13:10:54	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-08T13:10:54	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-08T13:10:58	[INF]	Mensaje Fiscal = Comprobante cerrado.
+2011-07-08T13:12:36	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-08T13:12:36	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-08T13:12:36	[ERR]	AperturaImpresoraFiscal()
+2011-07-08T13:12:36	[ERR]	AperturaImpresoraFiscal
+2011-07-08T13:12:36	[ERR]	Puerto 1
+2011-07-08T13:12:36	[ERR]	Velocidad 9600
+2011-07-08T13:12:36	[ERR]	fiscal.AbrirImpFis()
+2011-07-08T13:12:36	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-08T13:12:36	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-08T13:12:36	[INF]	Mensaje Fiscal = Impresora fiscal abierta
+2011-07-08T13:12:36	[ERR]	fiscal.AbrirImpFis() = true
+2011-07-08T13:12:36	[ERR]	Estado Despues fiscal.AbrirImpFis() = true 
+2011-07-08T13:12:36	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-08T13:12:36	[ERR]	fiscal.EstadoCompAbierto = False
+2011-07-08T13:12:36	[ERR]	AbrioIF = True
+2011-07-08T13:12:36	[INF]	Mensaje Fiscal = Abriendo comprobante fiscal
+2011-07-08T13:12:38	[INF]	Mensaje Fiscal = Comprobante fiscal abierto
+2011-07-08T13:12:42	[INF]	Mensaje Fiscal = Item impreso
+2011-07-08T13:12:43	[INF]	Mensaje Fiscal = Pago grabado
+2011-07-08T13:12:43	[INF]	Mensaje Fiscal = Cerrando comprobante fiscal
+2011-07-08T13:12:46	[INF]	Mensaje Fiscal = Comprobante cerrado.
+2011-07-15T14:34:25	[ERR]	ConfiguracionImpresoraFiscal()
+2011-07-15T14:34:25	[INF]	Mensaje Fiscal = Configurando impresora fiscal
+2011-07-15T14:34:25	[ERR]	AperturaImpresoraFiscal()
+2011-07-15T14:34:25	[ERR]	AperturaImpresoraFiscal
+2011-07-15T14:34:25	[ERR]	Puerto 1
+2011-07-15T14:34:25	[ERR]	Velocidad 9600
+2011-07-15T14:34:25	[ERR]	fiscal.AbrirImpFis()
+2011-07-15T14:34:25	[ERR]	Estado Antes fiscal.AbrirImpFis()  
+2011-07-15T14:34:25	[INF]	Mensaje Fiscal = Abriendo impresora fiscal
+2011-07-15T14:34:26	[INF]	Mensaje Fiscal = <b>Error al abrir el puerto</b>
+2011-07-15T14:34:26	[ERR]	Estado Despues fiscal.AbrirImpFis() = false 
+2011-07-15T14:34:26	[ERR]	fiscal.EstadoCompAbierto = False

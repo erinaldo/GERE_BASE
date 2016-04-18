@@ -1,0 +1,16 @@
+<Modules>
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="mscorlib" />
+  <Module PersistentId="00A91529-D08D-4FCA-85C9-5197260AC087" ModuleId="mz.erp.ui.dll" />
+  <Module PersistentId="6133DE5B-5AAD-40B0-9620-735228AD2EA6" ModuleId="mz.erp.ui.controller.dll" />
+  <Module PersistentId="186D09F1-0548-4C3C-A9EF-9E73A1EA49EC" ModuleId="mz.erp.businessrules.dll" />
+  <Module PersistentId="23B55F01-BF06-4AA8-878D-FB579246D04B" ModuleId="mz.erp.commontypes.dll" />
+  <Module PersistentId="9D3E8AE6-DD14-46A8-9395-DFDD6CE2C6A5" ModuleId="mz.erp.systemframework.dll" />
+  <Module PersistentId="96019240-B19D-4587-B5B8-D442496DF5C8" ModuleId="mz.erp.dataaccess.dll" />
+  <Module PersistentId="8B4A211F-FE26-4E55-98CA-F37A95D39EAA" ModuleId="mz.erp.dbhelper.dll" />
+  <Module PersistentId="EF4F53FA-1F4D-4292-8F88-4251DFE03043" ModuleId="mz.erp.exe" />
+  <Module PersistentId="83540CDB-61E2-452F-B494-EB7C5EBAB91F" ModuleId="mz.erp.security.dll" />
+  <Module PersistentId="101C7640-9970-4AB6-9F25-E4784A583490" ModuleId="ExceptionManager" />
+  <Module PersistentId="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
+  <Module PersistentId="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing" />
+</Modules>

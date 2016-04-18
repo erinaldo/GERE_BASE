@@ -1,0 +1,1 @@
+PATH: E:\Fuentes\Fuentes\MZERP2008\mz.erp.ui.exe\bin\Debug\mz.erp.exe.config
