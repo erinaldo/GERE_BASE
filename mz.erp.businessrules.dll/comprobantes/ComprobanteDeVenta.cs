@@ -1066,6 +1066,13 @@ namespace mz.erp.businessrules.comprobantes
 		//Fin German 20091023 - tarea 470
 
 
+        //German 20160419 - Tarea1
+        public bool TrasladaNumero
+        {
+            get { return _trasladaNumero; }
+            set { _trasladaNumero = value; }
+        }
+        //Fin German 20160419 - Tarea1
 
 		#endregion
 
@@ -1190,6 +1197,10 @@ namespace mz.erp.businessrules.comprobantes
         //German 20120306 - Tarea 0000289
         private ArrayList _remitosAsociados = new ArrayList();
         //Fin German 20120306 - Tarea 0000289
+
+        //German 20160419 -  Tarea1
+        private bool _trasladaNumero = false;
+        //Fin German 20160419 -  Tarea1
 		
 		#endregion
 
@@ -2216,21 +2227,28 @@ namespace mz.erp.businessrules.comprobantes
 				OnTaskBeforeFlush(this, new EventArgs());
 			tsa_ComprobantesExDataset dataEx = this.DatasetComprobante;
 			string IdVariable = string.Empty;
-			if (this.ActualizaNumeracion)
-			{
-				IdVariable = UpdateNumero(dataEx,IdTransaction);
-			}
-			else 
-			{				
-				if(SugiereNumeracion(_tipoComprobanteDestino))
-				{
-					IdVariable = UpdateNumeroSugerido(dataEx,IdTransaction);
-				}
-				/*
-				else
-					IdVariable = dataEx.tsa_Comprobantes.Rows[0]["Numero"].ToString();
-				*/
-			}
+            //German 20160419 - Tarea1
+            if (!_trasladaNumero)
+            {
+            //Fin German 20160419 - Tarea1
+                if (this.ActualizaNumeracion)
+                {
+                    IdVariable = UpdateNumero(dataEx, IdTransaction);
+                }
+                else
+                {
+                    if (SugiereNumeracion(_tipoComprobanteDestino))
+                    {
+                        IdVariable = UpdateNumeroSugerido(dataEx, IdTransaction);
+                    }
+                    /*
+                    else
+                        IdVariable = dataEx.tsa_Comprobantes.Rows[0]["Numero"].ToString();
+                    */
+                }
+            //German 20160419 - Tarea1
+            }
+            //Fin German 20160419 - Tarea1
 			_replication = GenerateReplication();
 			if(_allowToValidateFlujosComprobantes)
 				ValidarComprobantesRelacionados(IdTransaction);
@@ -4183,6 +4201,10 @@ namespace mz.erp.businessrules.comprobantes
 			//Fin German 20091023 - tarea 470
 
 			Init( action, idcomprobante, momento, idcuenta, fecha, idresponsable, idcondiciondeventa, idtipodecomprobantedestino, relaciones);
+            //German 20160419 - Tarea1
+            if (_trasladaNumero)
+                this._numero = relaciones.Get(0).Numero;
+            //Fin German 20160419 - Tarea1
 			if(ObjectHasChanged != null)
 				ObjectHasChanged(this, new EventArgs());
 		
@@ -4287,6 +4309,10 @@ namespace mz.erp.businessrules.comprobantes
             /* Silvina 20111104 - Tarea 0000222 */
             _usaCategorias = Variables.GetValueBool("Cuentas.UsaCategorias");
             /* Fin Silvina 20111104 - Tarea 0000222 */
+
+            //German 20160419 - Tarea1
+            _trasladaNumero = Variables.GetValueBool(this._processManager.Process.ProcessName, this._taskName, "Step.TrasladaNumero");
+            //Fin German 20160419 - Tarea1
 			Init( action, idcomprobante, momento, idcuenta, fecha, idresponsable, idcondiciondeventa, idtipodecomprobantedestino, relaciones);
 		}
 		
